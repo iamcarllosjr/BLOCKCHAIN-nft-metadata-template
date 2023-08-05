@@ -1,0 +1,12 @@
+{
+    "name": "Rabbit #12",
+    "description": "Legion of Rabbits is a New Collection in Web3",
+    "rarity": "Legend",
+    "image": "https://ipfs.io/ipfs/QmNrm5vFSdasxnDgPmg8MQe12u763tdNfjHthyHS2FQpTq/12.jpg",
+    "attributes" : [
+        {
+            "trait_type": "Animal",
+            "value": "Rabbit"
+        }
+    ]
+}
